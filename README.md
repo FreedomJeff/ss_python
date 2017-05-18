@@ -1,1 +1,1 @@
-# ss_python
+# This is notes to study python programming.
